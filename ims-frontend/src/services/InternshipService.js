@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const REST_API_BASE_URL = 'http://localhost:8080/api/internships';
+const REST_API_BASE_URL = 'http://internship.eu-north-1.elasticbeanstalk.com/api/internships';
 
 export const listInternships = () => axios.get(REST_API_BASE_URL);
 
