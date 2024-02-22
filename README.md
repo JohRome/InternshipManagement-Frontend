@@ -11,5 +11,5 @@
 + Open folder with VisualStudio Code
 + In the IDE terminal, type ``cd .\ims-frontend`` followed by:
     + ``npm install`` then:
-    + ``npm run dev`` and Ctrl + left-click on "http://localhost:3000/
+    + ``npm run dev`` and Ctrl + left-click on http://localhost:3000/
 + Add internships and enjoy
