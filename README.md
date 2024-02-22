@@ -5,7 +5,7 @@
 + Changes were made to fit my backend.
 
 
-### Installation
+## Installation
 + Install [Node.js](https://nodejs.org/en) on your machine.
 + Clone this repo.
 + Open folder with VisualStudio Code
